@@ -1,0 +1,83 @@
+#kasa{
+    margin-top: 50px;
+    background-color: #f4f4f4;
+    height: 640px;
+border-radius: 20px;
+overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    box-shadow: 0px 24px 38px 3px rgba(0,0,0,0.14) , 0px 9px 46px 8px rgba(0,0,0,0.12) , 0px 11px 15px -7px rgba(0,0,0,0.2);
+}
+
+#ekran{
+    border-radius: 5%;
+    color: white;
+    margin: 0;
+    height:27%;
+    background-color: #171717;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.buttons{
+   margin: 5px;
+   justify-content: center;
+
+}
+.isaretButonlari{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    width: 20%;
+    height: 70px;
+    font-size: 25px;
+    box-shadow: 0px 8px 17px 2px rgba(0,0,0,0.14) , 0px 3px 14px 2px rgba(0,0,0,0.12) , 0px 5px 5px -3px rgba(0,0,0,0.2) ;
+}
+
+.isaretButonlari:hover{
+    box-sizing: 0px 4px 6px 0px rgba(50,50,93,0.11) , 0px 1px 3px 0px rgba(0,0,0,0.08) ;
+}
+.buttoncolor{
+    color: black;
+    background-color: #f8913e;
+}
+.buttoncolor:hover{
+    background-color:#ee7f24;
+}
+.buttoncolor2:hover{
+    background-color:rgb(215, 212, 212);
+}
+.btnred{
+    background-color: rgb(229, 74, 105);
+}
+.btnred:hover{
+    background-color: rgb(238, 44, 83);
+}
+.btngreen{
+    background-color:#a2e460;
+}
+.btngreen:hover{
+    background-color:  #9cd960;
+}
+#imza{
+width: 60%;
+margin-left: 20px;
+margin-top: 30px;
+
+}
+.sayi{
+    color: rgb(215, 212, 212);
+}
+.sayi3{
+    color:#171717;
+}
+#num0{
+    position: relative;
+    right: 8%;
+}
+#nokta{
+    position: relative;
+    right: 4%;
+}
